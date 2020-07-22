@@ -1,0 +1,15 @@
+body {
+  background-color: antiquewhite;
+}
+
+label,
+div {
+  color: darkgreen;
+  font-family: Courier;
+  font-size: larger;
+}
+
+img {
+  width: 25px;
+  height: 25px;
+}
